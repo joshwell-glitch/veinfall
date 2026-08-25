@@ -88,36 +88,6 @@ Here are some screenshots of **Veinfall** in action.
 
 ---
 
-# 📁 Project Structure
-
-```text
-veinfall/
-
-│
-├── assets/
-│   └── ...
-│
-├── scenes/
-│   └── ...
-│
-├── scripts/
-│   └── ...
-│
-├── screenshots/
-│   ├── gameplay.png
-│   ├── combat.png
-│   └── inventory.png
-│
-├── project.godot
-│
-├── README.md
-└── ...
-```
-
-> The project structure above is an example layout for organizing the repository. Update it to match the actual folders and files in your Godot project.
-
----
-
 # 🎮 Game Information
 
 ### 🏰 Setting
